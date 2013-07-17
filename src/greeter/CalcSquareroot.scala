@@ -1,5 +1,9 @@
 package greeter
 
+/**
+ * Calculates the square root of any Integer supplied.
+ * Please excuse me on the package nomenclature :)
+ */
 object CalcSquareroot {
 
   def main(args: Array[String]): Unit = {
